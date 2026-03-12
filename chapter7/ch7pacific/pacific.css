@@ -103,6 +103,9 @@ footer {
     padding: 2em; 
     text-align: center; /* txa */
 }
+address {
+    font-style: normal;
+}
 .resort {
     color: #1976d2; /* c#1976d2 */
     font-weight: bold; /* fwb */
