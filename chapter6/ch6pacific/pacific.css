@@ -54,6 +54,9 @@ h3 {
 dt {
    color: #002171; /* c#002171 */
 }
+address{
+    font-style: normal; 
+}
 footer {
     font-size: 75%; /* fz75% */
     font-style: italic; /* fsi */
@@ -70,10 +73,10 @@ footer {
     height: 18.75rem; /* h:18.75rem */
 }
 #homehero {
-    background-image: url(images/coast.jpg); /* bgimg:url (images/coast2.jpg) */   
+    background-image: url(images/coast2.jpg); /* bgimg:url (images/coast2.jpg) */   
 }
 #yurthero {
-    background-image: url(images/yurt.jpg); /* bgimg:url (images/yurt.jpg) */
+    background-image: url(images/yurt.jpg) /* bgimg:url (images/yurt.jpg) */
 }
 #trailhero {
     background-image: url(images/trail.jpg); /* bgimg:url (images/trail.jpg) */
